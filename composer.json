@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "catcubed/unit-conversions",
+    "description": "This is a package test",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "CatCubed",
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/CatCubed/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Ladislav Kořínek",
+            "email": "LadaKorinek@gmail.com",
             "role": "Developer"
         }
     ],
